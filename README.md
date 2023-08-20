@@ -3,7 +3,7 @@
 
 <br>
 
-[![Quality - A](https://github.com/woroxdev/php-docs/blob/main/quality_badge.svg)](google.com)
+[![Quality - A](https://github.com/woroxdev/php-docs/blob/main/quality_badge.svg)](https://google.com)
 ![Zend - PHPV](https://github.com/woroxdev/php-docs/blob/main/zend-badge.svg)
 
 ---
