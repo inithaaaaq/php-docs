@@ -3,7 +3,8 @@
 
 <br>
 
-![Codacy Badge](https://api.codacy.com/project/badge/Grade/c3005ebae8e24c38ad8425928b847540)
+[![Quality - A](https://github.com/woroxdev/php-docs/blob/main/quality_badge.svg)](google.com)
+![Zend - PHPV](https://github.com/woroxdev/php-docs/blob/main/zend-badge.svg)
 
 ---
 
